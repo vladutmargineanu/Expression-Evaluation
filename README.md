@@ -11,5 +11,5 @@ Expression evaluation in postfixed Polish form
 
 S-a folosit stiva sistemului pentru a memora numerele citite si rezultatele in urma efectuarii calculelor.
 Se retine ultimul numar obtinut din calcule sau din parsarea inputului in 'eax'. Restul rezultatelor se retin pe stiva sistemului.
-Registrul 'exc' creste pana cand valoarea de la adresa acestuia este '0', corespuznator cu terminatorul de sir '\0'.
+Registrul 'ecx' creste pana cand valoarea de la adresa acestuia este '0', corespuznator cu terminatorul de sir '\0'.
 
